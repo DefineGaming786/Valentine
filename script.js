@@ -21,9 +21,9 @@ const noPhrases = [
   "That’s illegal",
   "Stop 😤",
   "Be nice!",
-  "C’moooon 🥺",
+  "PWEASEEEEEE 🥺",
   "Alright…",
-  "…seriously?"
+  "…seriously bum bum?"
 ];
 
 const gifStates = {
@@ -64,7 +64,7 @@ yesBtn.addEventListener("click", () => {
 
   gif.src = gifStates.yay;
   question.textContent = "YAY!! 💖";
-  subtext.textContent = "See you soon 😘";
+  subtext.textContent = "See you soon my honey bum 😘";
 
   // small heart shower
   for (let i = 0; i < 40; i++) {
