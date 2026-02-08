@@ -29,7 +29,7 @@ const noPhrases = [
 const gifStates = {
   normal: "https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif",
   pleading: "https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif",
-  yay: "https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif"
+  yay: "https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNGNqY2kzcjhtdjVqbGd1NGZhY3YxOW9pcGJ0OGN5aTdpeTlmN3ZheCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T70hpBP1L0N7U0jtkq/200w.gif"
 };
 
 function clamp(n, min, max) {
